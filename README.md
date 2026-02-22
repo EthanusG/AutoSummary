@@ -1,5 +1,3 @@
-# AutoSummary
-
 <h1 align="center">
   <img src="./icon.png" alt="AutoSummary" width="128" />
   <br>
