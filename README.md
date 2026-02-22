@@ -1,6 +1,19 @@
 # AutoSummary
 
-AutoSummary is a Discord bot designed to act as an AI secretary for your server's meetings. It listens to transcript messages (or voice-to-text bots), groups them into timed chunks, and uses **Gemini 3 Flash** (via Yunwu.ai) to generate real-time interval summaries. Once the meeting is over, it provides a comprehensive evaluation of all participants.
+<h1 align="center">
+  <img src="./icon.png" alt="AutoSummary" width="128" />
+  <br>
+  AutoSummary
+  <br>
+</h1>
+
+<h3 align="center">
+An AI secretary for your server's meetings
+</h3>
+
+<p align="center">
+AutoSummary is an AI-powered Discord bot that monitors messages and live meeting transcripts, provides real-time interval summaries, and generates a final participant evaluation using Gemini 3 Flash.
+</p>
 
 ## ✨ Features
 
